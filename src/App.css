@@ -1,0 +1,13 @@
+.app {
+  height: 100%;
+  text-align: center;
+  overflow: hidden;
+}
+
+.header {
+  height: 76px;
+}
+
+.body {
+  height: calc(100% - 76px);
+}
